@@ -6,7 +6,7 @@
     <span>Nicolas Witzel</span>
 </h1>
 
-<p align="justify"><b>Machine Learning Engineer</b> with a passion for AI. Graduated in <b>Data Scientist</b>, and constantly improving skills in Machine Learning and Data Engineering. 
+<p align="justify"><b>Machine Learning Engineer</b> with a passion for AI. Student pursuing a degree in Data Science <b>Data Scientist</b>, and constantly improving skills in Machine Learning and Data Engineering. 
 <br>
  Currently working on data-driven projects and eager to learn new technologies. In my spare time, I enjoy reading AI news, learning German, and exploring the world of programming.</p>
 <!--
