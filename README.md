@@ -21,7 +21,7 @@
 
 ### GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasaws1&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=E0F7F5&title_color=009688&text_color=000000&border_radius=3&border_color=00BFAE&icon_color=009688&theme=default)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nicolasaws1&theme=shadow-blue&mode=weekly)](https://git.io/streak-stats)
 
 <!--
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasaws1&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=009688&hide=html,css,scss&bg_color=E0F7F5&text_color=000000&border_radius=3&border_color=00BFAE)](https://github.com/anuraghazra/github-readme-stats)
