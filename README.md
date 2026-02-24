@@ -26,12 +26,3 @@
 <!--
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasaws1&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=009688&hide=html,css,scss&bg_color=E0F7F5&text_color=000000&border_radius=3&border_color=00BFAE)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
-<details align="left">
-  <summary>Créditos</summary> 
- 
-  - Badges por <a href="https://shields.io/">shields.io</a><br>
-  - GitHub Stats por <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a><br>
-  - Vetor de desenvolvedor criado por <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (editado pelo autor)
- 
-</details>
