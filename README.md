@@ -8,7 +8,7 @@
 
 <p align="justify">Future <b>Machine Learning Engineer</b> with a passion for AI. Student pursuing a degree in <b>Data Scientist</b>, and constantly improving skills in Machine Learning and Data Engineering. 
 <br>
- Currently working on data-driven projects and eager to learn new technologies. In my spare time, I enjoy reading AI news, learning German, and exploring the world of programming.</p>
+ Currently working on data-driven projects and eager to learn new technologies. In my spare time, I enjoy reading AI news, learning English and Spanish, and exploring the world of programming.</p>
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://nicolasaws1.github.io/)
 [![GitHub Page](https://img.shields.io/badge/nicolasaws1.github.io-67136f?style=for-the-badge)](https://nicolasaws1.github.io/)
