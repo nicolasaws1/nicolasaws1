@@ -1,14 +1,19 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="250" src="https://cdn-icons-gif.flaticon.com/10971/10971749.gif">
-
 <h1>
-    <a href="https://github.com/nicolasaws1">
-     <img align="center" alt="Logo Nicolas Witzel" width="50px" src="https://cdn-icons-png.flaticon.com/512/424/424483.png"></a>
-    <span>Nicolas Witzel</span>
+  <a href="https://github.com/nicolasaws1"><img align="center" alt="Logo Nicolas Witzel" width="50px" src="https://cdn-icons-png.flaticon.com/512/424/424483.png"></a>
+  <span>Nicolas Witzel</span>
 </h1>
 
-<p align="justify">Future <b>Machine Learning Engineer</b> with a passion for AI. Student pursuing a degree in <b>Data Scientist</b>, and constantly improving skills in Machine Learning and Data Engineering. 
-<br>
- Currently working on data-driven projects and eager to learn new technologies. In my spare time, I enjoy reading AI news, learning English, Spanish, and exploring the world of programming.</p>
+<img align="right" alt="Developer animation" width="180px" src="https://cdn-icons-gif.flaticon.com/10971/10971749.gif">
+<img align="right" alt="" width="30px" height="180px" src="spacer.svg">
+
+<p align="left">
+  Future <b>Machine Learning Engineer</b> with a passion for AI. Student pursuing a degree in <b>Data Science</b> and constantly improving my skills in Machine Learning and Data Engineering.
+  <br><br>
+  Currently working on data-driven projects and eager to learn new technologies. In my spare time, I enjoy reading AI news, learning English and Spanish, and exploring the world of programming.
+</p>
+
+<br clear="right">
+
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://nicolasaws1.github.io/)
 [![GitHub Page](https://img.shields.io/badge/nicolasaws1.github.io-67136f?style=for-the-badge)](https://nicolasaws1.github.io/)
