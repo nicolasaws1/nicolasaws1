@@ -3,7 +3,10 @@
   <span>Nicolas Witzel</span>
 </h1>
 
-<img align="right" alt="Developer animation" width="180px" src="https://cdn-icons-gif.flaticon.com/10971/10971749.gif">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="brain-dark.gif">
+  <img align="right" alt="Developer animation" width="180px" src="brain-light.gif">
+</picture>
 <img align="right" alt="" width="30px" height="180px" src="spacer.svg">
 
 <p align="left">
